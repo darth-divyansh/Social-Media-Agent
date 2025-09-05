@@ -6,9 +6,9 @@ This repository contains an 'agent' which can take in a URL, and generate a Twit
 
 Here's a quick demo of the agent in action, generating a post based on a [Medium article on Microservices](https://sivanaikk0903.medium.com/microservices-architecture-a61fe9e48b41):
 
-See my Linkedin post it generated here: https://www.linkedin.com/posts/divyanshbansal1_microservices-deep-dive-netflix-activity-7323651406425395200-lfgQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEn8_wsBsy8msSrtGiaCyQR-BYqIeg8lqUI
+See my Linkedin post it generated here: [LINKEDIN POST](//www.linkedin.com/posts/divyanshbansal1_microservices-deep-dive-netflix-activity-7323651406425395200-lfgQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEn8_wsBsy8msSrtGiaCyQR-BYqIeg8lqUI)
 
-Also a Tweet here: https://x.com/divy_9999/status/1917885709987254740
+Also a Tweet here:  [TWEET](https://x.com/divy_9999/status/1917885709987254740)
 
 ![Screenshot of the social media agent flow](./static/agent_flow.png)
 
