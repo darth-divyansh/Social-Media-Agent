@@ -3,6 +3,9 @@
 This repository contains an 'agent' which can take in a URL, and generate a Twitter & LinkedIn post based on the content of the URL. It uses a human-in-the-loop (HITL) flow to handle authentication with different social media platforms, and to allow the user to make changes, or accept/reject the generated post.
 
 ## Demo (WANT TO SEE IT IN ACTION?)
+Click me 
+[![Demo Video](./static/thumbnail.png)](https://youtu.be/wUghtaIeVkM)
+
 
 Here's a quick demo of the agent in action, generating a post based on a [Medium article on Microservices](https://sivanaikk0903.medium.com/microservices-architecture-a61fe9e48b41):
 
